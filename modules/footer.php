@@ -10,8 +10,8 @@
 			<div id="links">
 			Developers: 
 				<a href="#" taget="_blank"></a> </a> 
-				<a href="#" taget="_blank"> Amjad Ali </a> 
-				<a href="#" taget="_blank"> Aman Kumar Mishra</a> 
+				<a href="#" taget="_blank"> Aryan Ranjan</a> 
+				<a href="#" taget="_blank"> Khushi Nimawat</a> 
 				
 			</div>
 			
