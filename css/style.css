@@ -78,14 +78,7 @@
   width: 100%;
 }
 
-.sidebar-brand {
-  color: #022241;
-  position: absolute;
-}
 
-.sidebar-brand a {
-  color: #022241;
-}
 
 .sidebar-nav li:before {
   content: "";
@@ -121,7 +114,7 @@
 
 .sidebar-nav li a {
   display: block;
-  color: #bdfaf4;
+  color: #000000;
   text-decoration: none;
   padding: 10px 15px 10px 30px;
 }
