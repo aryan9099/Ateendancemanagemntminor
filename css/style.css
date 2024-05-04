@@ -78,6 +78,15 @@
   width: 100%;
 }
 
+.sidebar-brand {
+  color: #022241;
+  position: absolute;
+}
+
+.sidebar-brand a {
+  color: #022241;
+}
+
 .sidebar-nav li:before {
   content: "";
   position: absolute;
