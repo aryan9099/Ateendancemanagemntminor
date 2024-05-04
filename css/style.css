@@ -124,10 +124,10 @@
 .sidebar-nav li a:focus,
 .sidebar-nav li.open a:hover,
 .sidebar-nav li.open a:active,
-.sidebar-nav li.open a:focus {
+.sidebar-nav li.open a:focus,
+.sidebar-nav li.active a {
   color: #000000;
   text-decoration: none;
-  background-color: transparent;
 }
 
 .sidebar-nav > .sidebar-brand {
